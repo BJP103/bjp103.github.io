@@ -42,6 +42,9 @@ header{
     border-radius: 25px;
 }
 .bing_wrapper{
+    margin: auto;
+    text-align: center;
+    width: 100%;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 400px 400px 400px ;
 }
