@@ -18,10 +18,10 @@ h3{
     color:red;
     text-decoration: underline;
 }
-body{
+/body{
     margin: 0;
     text-align: center;
-    background-image: url(../img/johnxina1.jpg);
+    /*background-image: url(../img/johnxina1.jpg);*/
     background-repeat: no-repeat;
     background-size: 100% 100%
 }
