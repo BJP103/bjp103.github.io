@@ -28,10 +28,12 @@ body{
 header{
     background-image: url(../img/pfp.jpg);
     background-repeat: no-repeat;
-    background-size: 80% ;
+    background-size: 100%;
     background-position: center center;
-    height: 200px;
+    height: 50%;
     margin: none;
+    justify-content: center;
+    align-items: center;
 }
 .bing_chill img {
     border-radius: 25px;
