@@ -11,7 +11,7 @@ h1, h3{
     font-family: "Noto Sans SC", sans-serif;
 }
 h1{
-        font-size: 35px;
+        font-size: 45px;
 }
 h3{
     font-size: 30px;
@@ -33,7 +33,7 @@ header{
     height: 50%;
     margin: none;
     justify-content: center;
-    align-items: center;
+    align-content: center;
 }
 .bing_chill img {
     border-radius: 25px;
