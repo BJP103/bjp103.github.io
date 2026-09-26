@@ -75,6 +75,9 @@ header{
     align-items: center;
     gap: 10px;
 }
+.wrapper div p{
+    width: fit-content;
+}
 .icons{
     width: 60px;
     margin:5px;
@@ -82,4 +85,5 @@ header{
 a:visited, a:link{
     color: white;
     text-decoration: none;
+    width: fit-content;
 }
